@@ -25,6 +25,27 @@ h6 {
   font-family: "Jost", sans-serif;
 }
 
+#under-constraction {
+  background-color: #bebebe;
+  width: 100vw;
+  height: 100vh;
+  text-align: center;
+  color: #000;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+#under-constraction img {
+  max-width: 30%;
+  height: auto;
+}
+
+#under-constraction h1 {
+  font-size: 40vw;
+}
+
 /*--------------------------------------------------------------
 # Preloader
 --------------------------------------------------------------*/
